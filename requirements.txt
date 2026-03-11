@@ -4,5 +4,5 @@
  robosuite==1.4.0
  bddl==1.0.1
  future==0.18.2 
- cloudpickle==2.1.0
+ cloudpickle==3.1.0
  gym==0.25.2
